@@ -12,6 +12,7 @@ Estou iniciando minha jornada na área de **Análise de Dados**, explorando ferr
   - NumPy
   - Matplotlib
   - Seaborn
+    
 - **SQL** para manipulação e consulta de bancos de dados.
 - **Power BI** e **Excel** para criação de relatórios e dashboards interativos.
 - **Metodologias ágeis**, como Scrum e Kanban, para o desenvolvimento eficiente de projetos.
